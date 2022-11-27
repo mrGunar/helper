@@ -1,0 +1,4 @@
+*.db
+*.db-journal
+examples.py
+__pycache__
